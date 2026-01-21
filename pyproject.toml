@@ -5,8 +5,13 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "dune-client>=1.10.0",
     "feature-engine>=1.9.3",
+    "fedfred>=3.0.0",
     "jupyter>=1.1.1",
+    "massive>=2.0.3",
     "notebook>=7.5.2",
+    "numpy==2.3",
+    "polygon-api-client>=1.16.3",
     "seaborn>=0.13.2",
 ]
